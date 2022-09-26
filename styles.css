@@ -1,0 +1,35 @@
+/* CSS For Index.html */
+
+
+
+a {
+    color: rgb(0, 0, 0);
+    font-weight: 400px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+.body {
+    background-color: rgb(216, 204, 202);
+}
+
+.intro {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 400px;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.list {
+    color: rgb(199, 34, 34);
+    font-weight: 400px;
+    
+}
+
+.chef {
+    border: 5px solid #555;
+    
+}
